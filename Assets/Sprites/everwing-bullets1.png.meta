@@ -1,0 +1,1396 @@
+fileFormatVersion: 2
+guid: 3e1fbbbd9d13942b7bf0e1af04d1ca90
+timeCreated: 1506734210
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: everwing-bullets1_0
+    21300002: everwing-bullets1_1
+    21300004: everwing-bullets1_2
+    21300006: everwing-bullets1_3
+    21300008: everwing-bullets1_4
+    21300010: everwing-bullets1_5
+    21300012: everwing-bullets1_6
+    21300014: everwing-bullets1_7
+    21300016: everwing-bullets1_8
+    21300018: everwing-bullets1_9
+    21300020: everwing-bullets1_10
+    21300022: everwing-bullets1_11
+    21300024: everwing-bullets1_12
+    21300026: everwing-bullets1_13
+    21300028: everwing-bullets1_14
+    21300030: everwing-bullets1_15
+    21300032: everwing-bullets1_16
+    21300034: everwing-bullets1_17
+    21300036: everwing-bullets1_18
+    21300038: everwing-bullets1_19
+    21300040: everwing-bullets1_20
+    21300042: everwing-bullets1_21
+    21300044: everwing-bullets1_22
+    21300046: everwing-bullets1_23
+    21300048: everwing-bullets1_24
+    21300050: everwing-bullets1_25
+    21300052: everwing-bullets1_26
+    21300054: everwing-bullets1_27
+    21300056: everwing-bullets1_28
+    21300058: everwing-bullets1_29
+    21300060: everwing-bullets1_30
+    21300062: everwing-bullets1_31
+    21300064: everwing-bullets1_32
+    21300066: everwing-bullets1_33
+    21300068: everwing-bullets1_34
+    21300070: everwing-bullets1_35
+    21300072: everwing-bullets1_36
+    21300074: everwing-bullets1_37
+    21300076: everwing-bullets1_38
+    21300078: everwing-bullets1_39
+    21300080: everwing-bullets1_40
+    21300082: everwing-bullets1_41
+    21300084: everwing-bullets1_42
+    21300086: everwing-bullets1_43
+    21300088: everwing-bullets1_44
+    21300090: everwing-bullets1_45
+    21300092: everwing-bullets1_46
+    21300094: everwing-bullets1_47
+    21300096: everwing-bullets1_48
+    21300098: everwing-bullets1_49
+    21300100: everwing-bullets1_50
+    21300102: everwing-bullets1_51
+    21300104: everwing-bullets1_52
+    21300106: everwing-bullets1_53
+    21300108: everwing-bullets1_54
+    21300110: everwing-bullets1_55
+    21300112: everwing-bullets1_56
+    21300114: everwing-bullets1_57
+    21300116: everwing-bullets1_58
+    21300118: everwing-bullets1_59
+    21300120: everwing-bullets1_60
+    21300122: everwing-bullets1_61
+    21300124: everwing-bullets1_62
+    21300126: everwing-bullets1_63
+    21300128: everwing-bullets1_64
+    21300130: everwing-bullets1_65
+    21300132: everwing-bullets1_66
+    21300134: everwing-bullets1_67
+    21300136: everwing-bullets1_68
+    21300138: everwing-bullets1_69
+    21300140: everwing-bullets1_70
+    21300142: everwing-bullets1_71
+    21300144: everwing-bullets1_72
+    21300146: everwing-bullets1_73
+    21300148: everwing-bullets1_74
+    21300150: everwing-bullets1_75
+    21300152: everwing-bullets1_76
+    21300154: everwing-bullets1_77
+    21300156: everwing-bullets1_78
+    21300158: everwing-bullets1_79
+    21300160: everwing-bullets1_80
+    21300162: everwing-bullets1_81
+    21300164: everwing-bullets1_82
+    21300166: everwing-bullets1_83
+    21300168: everwing-bullets1_84
+    21300170: everwing-bullets1_85
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: everwing-bullets1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1906
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1906
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1906
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1852
+        width: 60
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1756
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1756
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1756
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 60
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1596
+        width: 138
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1604
+        width: 142
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1700
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1596
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1652
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_14
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1550
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_15
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1610
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1461
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1461
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1469
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1426
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1319
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1319
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_22
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1327
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1301
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 258
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1030
+        width: 118
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1056
+        width: 34
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1158
+        width: 230
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1041
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1035
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1033
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_31
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1092
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 905
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 908
+        width: 106
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_34
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 911
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 904
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1002
+        width: 36
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 88
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 835
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 835
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 872
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 780
+        width: 90
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 774
+        width: 182
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_43
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 894
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 798
+        width: 33
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 832
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_46
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 792
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 694
+        width: 89
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 674
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_49
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 684
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 714
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 670
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 748
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 664
+        width: 80
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 568
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 669
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_56
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 636
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_57
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 584
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_58
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 558
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 458
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_60
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 456
+        width: 54
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 556
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_62
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 350
+        width: 94
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 554
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_65
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 364
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_66
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 334
+        width: 106
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_67
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 444
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 390
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_70
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 381
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 381
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 326
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_74
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 324
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 326
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_76
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 350
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 342
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_78
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 342
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 342
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_81
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 310
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 310
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_83
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 302
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_84
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 302
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-bullets1_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 302
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

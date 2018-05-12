@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 89224569e40d9409583dd3f85924c9ad
+timeCreated: 1506734525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: everwing-enemy_group11_0
+    21300002: everwing-enemy_group11_1
+    21300004: everwing-enemy_group11_2
+    21300006: everwing-enemy_group11_3
+    21300008: everwing-enemy_group11_4
+    21300010: everwing-enemy_group11_5
+    21300012: everwing-enemy_group11_6
+    21300014: everwing-enemy_group11_7
+    21300016: everwing-enemy_group11_8
+    21300018: everwing-enemy_group11_9
+    21300020: everwing-enemy_group11_10
+    21300022: everwing-enemy_group11_11
+    21300024: everwing-enemy_group11_12
+    21300026: everwing-enemy_group11_13
+    21300028: everwing-enemy_group11_14
+    21300030: everwing-enemy_group11_15
+    21300032: everwing-enemy_group11_16
+    21300034: everwing-enemy_group11_17
+    21300036: everwing-enemy_group11_18
+    21300038: everwing-enemy_group11_19
+    21300040: everwing-enemy_group11_20
+    21300042: everwing-enemy_group11_21
+    21300044: everwing-enemy_group11_22
+    21300046: everwing-enemy_group11_23
+    21300048: everwing-enemy_group11_24
+    21300050: everwing-enemy_group11_25
+    21300052: everwing-enemy_group11_26
+    21300054: everwing-enemy_group11_27
+    21300056: everwing-enemy_group11_28
+    21300058: everwing-enemy_group11_29
+    21300060: everwing-enemy_group11_30
+    21300062: everwing-enemy_group11_31
+    21300064: everwing-enemy_group11_32
+    21300066: everwing-enemy_group11_33
+    21300068: everwing-enemy_group11_34
+    21300070: everwing-enemy_group11_35
+    21300072: everwing-enemy_group11_36
+    21300074: everwing-enemy_group11_37
+    21300076: everwing-enemy_group11_38
+    21300078: everwing-enemy_group11_39
+    21300080: everwing-enemy_group11_40
+    21300082: everwing-enemy_group11_41
+    21300084: everwing-enemy_group11_42
+    21300086: everwing-enemy_group11_43
+    21300088: everwing-enemy_group11_44
+    21300090: everwing-enemy_group11_45
+    21300092: everwing-enemy_group11_46
+    21300094: everwing-enemy_group11_47
+    21300096: everwing-enemy_group11_48
+    21300098: everwing-enemy_group11_49
+    21300100: everwing-enemy_group11_50
+    21300102: everwing-enemy_group11_51
+    21300104: everwing-enemy_group11_52
+    21300106: everwing-enemy_group11_53
+    21300108: everwing-enemy_group11_54
+    21300110: everwing-enemy_group11_55
+    21300112: everwing-enemy_group11_56
+    21300114: everwing-enemy_group11_57
+    21300116: everwing-enemy_group11_58
+    21300118: everwing-enemy_group11_59
+    21300120: everwing-enemy_group11_60
+    21300122: everwing-enemy_group11_61
+    21300124: everwing-enemy_group11_62
+    21300126: everwing-enemy_group11_63
+    21300128: everwing-enemy_group11_64
+    21300130: everwing-enemy_group11_65
+    21300132: everwing-enemy_group11_66
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: everwing-enemy_group11_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1646
+        width: 502
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1474
+        width: 109
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1562
+        width: 105
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1642
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1578
+        width: 126
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1602
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1599
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1471
+        width: 123
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1575
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1494
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1560
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1304
+        width: 122
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_12
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1520
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_13
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1515
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_14
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1510
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1390
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1296
+        width: 126
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1415
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1459
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_19
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1433
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1408
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_21
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1415
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 886
+        width: 106
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 906
+        width: 207
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_24
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1334
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1218
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1210
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_27
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1258
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1046
+        width: 99
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 882
+        width: 124
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 890
+        width: 100
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 824
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 862
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_34
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 810
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_35
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 744
+        width: 92
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_36
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 684
+        width: 86
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_37
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 782
+        width: 166
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_39
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 729
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 656
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_41
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 602
+        width: 86
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 711
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_43
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 702
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 578
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 582
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 614
+        width: 86
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 634
+        width: 162
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 70
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 357
+        width: 78
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 530
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 466
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_53
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 492
+        width: 178
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 395
+        width: 80
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 459
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_56
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 396
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 423
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_58
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 340
+        width: 133
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_59
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 414
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 326
+        width: 133
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 355
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 259
+        width: 136
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 287
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: everwing-enemy_group11_66
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 276
+        width: 136
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

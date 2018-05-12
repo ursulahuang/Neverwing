@@ -1,0 +1,9 @@
+#!/bin/bash
+
+allFiles=$(ls *.png)
+
+echo $allFiles
+
+for i in $allFiles; do
+	mv $i everwing-$i
+done
